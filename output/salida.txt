@@ -1,0 +1,3 @@
+Primer archivo grupal para el ejercicio en git.
+Segunda linea. Sujeta a edición.
+Salida correcta.
