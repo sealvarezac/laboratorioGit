@@ -1,3 +1,4 @@
 Primer archivo grupal para el ejercicio en git.
 Segunda linea. Sujeta a edición.
+El 10 de mayo, a las 21:35, se están agregando nuevas lineas al archivo de texto, para practicar la escritura de cogido, y el proceso de realizar push y pull a los archivos para git. (Juan Sebastián)
 Salida correcta.

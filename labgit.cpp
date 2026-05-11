@@ -14,6 +14,7 @@ int main(){
 	}
     cout<<"Se leyo el archivo de forma correcta."<<endl<<endl;
 	archivo_git.close();
+	archivoSalida.close();//se agrega esta linea para cerrar el archivo de escritura, despues de copeada la informacion.
 	cout<<endl;
 	return 0;
 }
